@@ -52,7 +52,7 @@ const page = () => {
         className="bg-black text-white p-5 text-5xl
     font-bold text-center shadow-2xl  "
       >
-        My Todo-List
+         Todo-List
       </h1>
 
       <form onSubmit={handleSubmit}>
